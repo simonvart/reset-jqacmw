@@ -1,7 +1,7 @@
 reset-jqacmw
 ============
 
-Reset Jquery Accordion Menu Widget
+Reset Jquery Accordion Menu Widget (Wordpress)
 
 - A client was using the Jquery Accordion Menu Widget on its site. But the menu was using a cookie to store the active states of the menu.
 
