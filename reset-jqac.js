@@ -34,7 +34,7 @@
 	   });
 
 	   // DOMAIN ( SET IT TO THE CORRECT DOMAIN ROOT )
-	   var baseHref = 'http://truecph.com/wildland/';
+	   var baseHref = 'http://domain.com/wordpress/';
 
 	   // CURRENT PAGE (WITH AND WITHOUT DOMAIN ROOT)
 	   var pageLocation = window.location.href;
